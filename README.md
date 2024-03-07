@@ -4,20 +4,6 @@ For now try using [Jellyfin Auto Collections](https://github.com/ghomasHudson/Je
 
 ----------------
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/ghomasHudson/Jellyfin-Meta-Manager?style=plastic)](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/releases)
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/ghomasHudson/Jellyfin-meta-manager?label=docker&sort=semver&style=plastic)](https://hub.docker.com/r/ghomasHudson/Jellyfin-meta-manager)
-[![Docker Pulls](https://img.shields.io/docker/pulls/ghomasHudson/Jellyfin-meta-manager?style=plastic)](https://hub.docker.com/r/ghomasHudson/Jellyfin-meta-manager)
-[![Develop GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/ghomasHudson/Jellyfin-meta-manager/latest/develop?label=Commits%20in%20Develop&style=plastic)](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/tree/develop)
-[![Nightly GitHub commits since latest stable release (by SemVer)](https://img.shields.io/github/commits-since/ghomasHudson/Jellyfin-meta-manager/latest/nightly?label=Commits%20in%20Nightly&style=plastic)](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/tree/nightly)
-
-[![Discord](https://img.shields.io/discord/822460010649878528?color=%2300bc8c&label=Discord&style=plastic)](https://metamanager.wiki/en/latest/discord/)
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/JellyfinMetaManager?color=%2300bc8c&label=r%2FJellyfinMetaManager&style=plastic)](https://www.reddit.com/r/JellyfinMetaManager/)
-[![Wiki](https://img.shields.io/readthedocs/Jellyfin-meta-manager?color=%2300bc8c&style=plastic)](https://metamanager.wiki)
-[![Translations](https://img.shields.io/weblate/progress/Jellyfin-meta-manager?color=00bc8c&server=https%3A%2F%2Ftranslations.metamanager.wiki&style=plastic)](https://translations.metamanager.wiki/projects/Jellyfin-meta-manager/#languages)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ghomasHudson?color=%238a2be2&style=plastic)](https://github.com/sponsors/ghomasHudson)
-[![Sponsor or Donate](https://img.shields.io/badge/-Sponsor%2FDonate-blueviolet?style=plastic)](https://github.com/sponsors/ghomasHudson)
-[![Feature Requests](https://img.shields.io/badge/Feature%20Requests-blueviolet?style=plastic)](https://features.metamanager.wiki/)
-
 Jellyfin Meta Manager is a powerful tool designed to give you complete control over your media libraries. With Jellyfin Meta Manager, you can take your customization to the next level, with granular control over metadata, collections, overlays, and much more.
 
 Transform your media library with Jellyfin Meta Manager and discover its full potential! Connect to third-party services like TMDb, Trakt, and IMDb, among others, to create one-of-a-kind collections, overlays and more. Your media library will stand out and be tailored to your specific needs.
@@ -175,29 +161,16 @@ git checkout master
 ```
 ````
 
-As this branch is subject to extreme change, there is no promise of the feature being documented in the [nightly](https://metamanager.wiki/en/nightly/) branch of the wiki and all discussions relating to changes made in the nightly branch will be held within the [Jellyfin Meta Manager Discord Server](https://metamanager.wiki/en/latest/discord/).
+As this branch is subject to extreme change, there is no promise of the feature being documented in the nightly branch of the wiki and all discussions relating to changes made in the nightly branch will be held within the [Jellyfin Meta Manager Discord Server]([https://metamanager.wiki/en/latest/discord/](https://discord.gg/AjTsTcjP)).
 </details>
 
 
 ## Discord Support Server
 
-If you're looking for support for any questions or issues you might have, or if you just want to be a part of our growing community, Join the [Jellyfin Meta Manager Discord Server](https://metamanager.wiki/en/latest/discord/).
-
-## Feature Requests
-
-At Jellyfin Meta Manager, we value our community's input and actively seek feedback to drive the evolution of our product. We want to hear your ideas on how to enhance Jellyfin Meta Manager, and we encourage you to visit our [Feature Request](https://features.metamanager.wiki/features) page to share your thoughts or vote on what features you would like to see added next. Your voice matters and helps shape the future of Jellyfin Meta Manager, so please don't hesitate to join in the conversation and be a part of our community-driven development process.
-
-## Errors and Configuration Questions
-
-If you're having trouble, we recommend first joining the [Jellyfin Meta Manager Discord Server](https://metamanager.wiki/en/latest/discord/) and seeking support there. If that isn't possible for you, here's what you can do:
-
-* If you get an error, update to the latest version and check if the issue persists. If it does, report the bug by filling out the [Bug Report](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/issues/new?assignees=ghomasHudson&labels=status%3Anot-yet-viewed%2C+bug&template=bug_report.md&title=Bug%3A+) template.
-* If you spot a mistake or have an idea to improve the [Jellyfin Meta Manager Wiki](https://metamanager.wiki/), submit a request using the [Wiki Request](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/issues/new?assignees=ghomasHudson&labels=status%3Anot-yet-viewed%2C+documentation&template=3.docs_request.yml&title=%5BDocs%5D%3A+) template.
-* If you have a question about metadata configuration, start a discussion on the [Discussions](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/discussions). Remember, the community helps shape the future of Jellyfin Meta Manager, so your input is valuable!
-
-For support on any of the above, visit the [Discord server](https://metamanager.wiki/en/latest/discord/).
+If you're looking for support for any questions or issues you might have, or if you just want to be a part of our growing community, Join the [Jellyfin Meta Manager Discord Server]([https://metamanager.wiki/en/latest/discord/](https://discord.gg/AjTsTcjP)).
 
 ## Contributing
-* Pull Requests are greatly encouraged, please submit all Pull Requests to the nightly branch.
+
+If it's a Jellyfin-specific change, by all means add it here. For now we're going to follow the upstream, [Plex-Meta-Manager](https://github.com/meisnate12/Plex-Meta-Manager) so request more general features there. Pull Requests are greatly encouraged.
 
 <br>
