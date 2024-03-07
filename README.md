@@ -3,7 +3,6 @@ This is a Work-In-Progress conversion of [Plex Meta Manager](https://github.com/
 For now try using [Jellyfin Auto Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections).
 
 ----------------
-# <img src="https://metamanager.wiki/en/latest/assets/logo-full.webp" alt="PMM">
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ghomasHudson/Jellyfin-Meta-Manager?style=plastic)](https://github.com/ghomasHudson/Jellyfin-Meta-Manager/releases)
 [![Docker Image Version (latest semver)](https://img.shields.io/docker/v/ghomasHudson/Jellyfin-meta-manager?label=docker&sort=semver&style=plastic)](https://hub.docker.com/r/ghomasHudson/Jellyfin-meta-manager)
