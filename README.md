@@ -1,13 +1,14 @@
 This is a Work-In-Progress conversion of [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) to use the Jellyfin API.
 
 
-# First steps
+### First steps
 Have considered porting python-plexapi to create a jellyfin equivilent [python-jellyfinapi](https://github.com/ghomasHudson/python-jellyfinapi). Basic things like logging in is quite easy but filtering gets a bit complex (the APIs are quite different).
 
 
 For now try using [Jellyfin Auto Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections).
 
 ----------------
+## WIP
 
 Jellyfin Meta Manager is a powerful tool designed to give you complete control over your media libraries. With Jellyfin Meta Manager, you can take your customization to the next level, with granular control over metadata, collections, overlays, and much more.
 
