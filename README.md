@@ -1,5 +1,10 @@
 This is a Work-In-Progress conversion of [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) to use the Jellyfin API.
 
+
+# First steps
+Have considered porting python-plexapi to create a jellyfin equivilent [https://github.com/ghomasHudson/python-jellyfinapi]. Basic things like logging in is quite easy but filtering gets a bit complex (the APIs are quite different).
+
+
 For now try using [Jellyfin Auto Collections](https://github.com/ghomasHudson/Jellyfin-Auto-Collections).
 
 ----------------
